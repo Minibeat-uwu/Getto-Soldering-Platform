@@ -13,7 +13,8 @@ The old charger was already been cut by my parents, so I just reorganized the wi
 
 ### Further Upgrade:
 
-I may look for a way to attach couple octopus hands and alligator clips so it can at least hold something infront of the fan.
+- I may look for a way to attach couple octopus hands and alligator clips so it can at least hold something infront of the fan.
+- Possibily change the fan so that I can attach it outside of the metal casing
 
 ### Pics:
 ![Photo 2019-05-03, 15 49 03](https://user-images.githubusercontent.com/46799843/57164835-55614880-6dc3-11e9-91c9-7af85402517b.jpg)
